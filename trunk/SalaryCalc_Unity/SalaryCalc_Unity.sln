@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{227EA14D-BE65-DC18-460C-467EEFCA1B48}") = "SalaryCalc_Unity", "Assembly-CSharp.csproj", "{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}"
+EndProject
+Project("{227EA14D-BE65-DC18-460C-467EEFCA1B48}") = "SalaryCalc_Unity", "Assembly-UnityScript.unityproj", "{57D41224-27D6-A603-515D-5A466961F0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D41224-27D6-A603-515D-5A466961F0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D41224-27D6-A603-515D-5A466961F0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D41224-27D6-A603-515D-5A466961F0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D41224-27D6-A603-515D-5A466961F0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+				GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal

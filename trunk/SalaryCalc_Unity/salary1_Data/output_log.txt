@@ -1,0 +1,15 @@
+Initialize engine version: 4.3.1f1 (cebd4d9b5122)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [dlumd9.dll 9.18.7.4]
+    Renderer: AMD Radeon HD 6800 Series
+    Vendor:   ATI
+    VRAM:     1015 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\0.WORKS\Unity_WORK\SalaryCalc_Unity\salary1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\0.WORKS\Unity_WORK\SalaryCalc_Unity\salary1_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.086 seconds
+desktop: 1680x1050 60Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
