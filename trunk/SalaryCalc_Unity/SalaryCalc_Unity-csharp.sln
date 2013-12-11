@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{227EA14D-BE65-DC18-460C-467EEFCA1B48}") = "SalaryCalc_Unity", "Assembly-CSharp-vs.csproj", "{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}"
 EndProject
+Project("{227EA14D-BE65-DC18-460C-467EEFCA1B48}") = "SalaryCalc_Unity", "Assembly-CSharp-Editor-vs.csproj", "{7545A39A-4921-8EEA-6602-3935D6FA7541}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,11 +15,15 @@ Global
 		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BBF3E76-CDA9-A841-D936-1355FDC4CED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7545A39A-4921-8EEA-6602-3935D6FA7541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7545A39A-4921-8EEA-6602-3935D6FA7541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7545A39A-4921-8EEA-6602-3935D6FA7541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7545A39A-4921-8EEA-6602-3935D6FA7541}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-					GlobalSection(MonoDevelopProperties) = preSolution
+										GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
