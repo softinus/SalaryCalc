@@ -1,0 +1,13 @@
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\UnityVS.VersionSpecific.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\obj\Debug\UnityVS.SalaryCalc_Unity2.CSharp.Editor.csprojResolveAssemblyReference.cache
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\obj\Debug\Assembly-CSharp-Editor.dll
+D:\0.WORKS\Unity_WORK\calc\trunk\SalaryCalc_Unity2\obj\Debug\Assembly-CSharp-Editor.pdb
